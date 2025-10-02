@@ -1,4 +1,4 @@
- Project Overview
+Project Overview
 This is my first Data Analytics portfolio project, built in Microsoft Excel.
 The dashboard analyzes call center performance using Pivot Tables, Charts, and Slicers to make the data interactive and easy to explore.
 
